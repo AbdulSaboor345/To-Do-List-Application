@@ -29,7 +29,7 @@ Chalk: Enables colorizing terminal output for a visually appealing experience.
 Contribution:
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
-Special Thanks:
+Acknowledgements:
 Special thanks to code with Hamza for his invaluable assistance and contribution to this project.
 
 License:
